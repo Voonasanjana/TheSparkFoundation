@@ -1,2 +1,2 @@
 # TheSparkFoundation
-Tasks given my The Spark foundation
+Tasks given by The Spark foundation
